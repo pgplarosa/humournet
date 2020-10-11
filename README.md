@@ -21,7 +21,7 @@ Since during these pandemic days many companies are switching to work from home 
 |------------|-------------|
 | <img src="test/work.jpg" width="250"> | <img src="output/caption_work.jpg" width="250"> |
 
-This AI is hilarious :joy:. Of course you don't want to sleep at work, and it should be done uless you are going to be :fire:
+This AI is hilarious :joy:. Of course you don't want to sleep at work, and it should be done unless you are going to be :fire:
 
 Let's try another one for a kid having some online learning class.
 | input     | output      |
